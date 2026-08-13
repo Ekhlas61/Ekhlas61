@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Ekhlas Abdulmelik
 
-<!--
-**Ekhlas61/Ekhlas61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I build modern, scalable web applications using
+React, Next.js, Node.js, Express, MongoDB, PostgreSQL and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🎓 Bachelor of Software Engineering
+💻 Full-Stack Development
+🤖 AI-powered applications
+🌍 Interested in building impactful software
+
+🛠️ Tech Stack
+
+Frontend:
+React | Next.js | JavaScript | TypeScript | Tailwind CSS
+
+Backend:
+Node.js | Express.js | REST APIs
+
+Database:
+MongoDB | PostgreSQL | MySQL
+
+Tools:
+Git | GitHub | Docker | Postman
+
+📌 Featured Projects
+
+• AI-Assisted Complaint Resolution System
+• MERN Stack Applications
+• Full-Stack Web Applications
+
+
+📫 Contact
+💼 [LinkedIn](https://www.linkedin.com/in/ekhlas-abdulmelik-850b43309/)  
+📧 [Email](mailto:ekhlasabdulmelik@gmail.com)
